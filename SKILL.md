@@ -2,7 +2,7 @@
 name: waha
 description: WAHA (WhatsApp HTTP API) Plus — session management, sending messages (text, media, polls, buttons, contacts, location), webhooks, groups, Docker deployment, and production configuration. Auto-triggers on WAHA API calls, WhatsApp automation, and message sending tasks.
 disable-model-invocation: false
-user-invocable: true
+user-invokable: true
 argument-hint: "task description"
 ---
 
